@@ -11,4 +11,4 @@ https://davidyeiser.com/tutorial/docker-wordpress-theme-setup
 http://localhost:8000/
 
 ## Create themes
- `wp-ccontent`
+ `wp-content/themes`
